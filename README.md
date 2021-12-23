@@ -8,6 +8,8 @@ For EFFICIENT ALGO (B)
 Run efficient.sh to run a specific input file by editing the .sh with respective input file location.
 Run efficient_all_testCase.sh to run all input files present in input folder. (Add your input test case in format input*.txt in input folder)
 
+The output will be generated in your project directory.
+
 Output will be created in root directory in format output(*).txt, where * represents the output file index for respective input. 
 
 Alternatively , 

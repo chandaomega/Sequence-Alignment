@@ -11,7 +11,7 @@ Run efficient_all_testCase.sh to run all input files present in input folder. (A
 Output will be created in root directory in format output(*).txt, where * represents the output file index for respective input. 
 
 Alternatively , 
-Run javac Main.java to compile the Main file for java
+Run javac Main.java to compile the Main file for java.
 For Basic Algo (A)- 
 Run java Main {inputFilePath}
 For Efficient Algo (B)- 
